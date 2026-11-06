@@ -1,0 +1,17 @@
+*.tex
+*.aux
+*.log
+*.out
+*.toc
+*.xdv
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+/.venv/
+/build/
+/output/
+/experiments/
+__pycache__/
+
+# Local starter, tools, report sources, and raw experiment records.
+/.dev/
